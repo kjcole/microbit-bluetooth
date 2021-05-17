@@ -58,10 +58,10 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
+This image shows the blocks code from the last commit in main.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/kjcole/microbit-bluetooth/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/kjcole/microbit-bluetooth/raw/main/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
