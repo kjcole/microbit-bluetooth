@@ -1,3 +1,6 @@
+/**
+ * Requires a PC running microbit_uart.py. See README.md in Codeberg repository
+ */
 bluetooth.onBluetoothConnected(function () {
     basic.showLeds(`
         . . # . .
