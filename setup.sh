@@ -21,7 +21,7 @@
 #
 
 sudo apt install python3 python3-pip bluez
-mkdir -p "`python -m site --user-site`"
+mkdir -p "$(python3 -m site --user-site)"
 pip install --user -r requirements.txt
 
 bt=$(bluetoothctl show    | grep "^Controller "    | cut -f 2 -d " ")
